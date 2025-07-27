@@ -1,0 +1,7 @@
+﻿services:
+  rinhaneto10:
+    image: rinhaneto10
+    build:
+      context: .
+      dockerfile: Dockerfile
+
